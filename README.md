@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Mehrnaz7777
-- 👀 I’m interested in being here
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Mehrnaz
+- 🌱 I’m currently learning programing 
 - 💞️ I’m looking to collaborate on my friends 
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: obsessed with Lana 
+- ⚡ obsessed with Lana Del Rey 
 
 <!---
 Mehrnaz7777/Mehrnaz7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
